@@ -2,6 +2,10 @@
 
 This repository holds official documentation for Chronos - dynamic load balancer and firewall based on eBPF/XDP for QUIC transport in IBN (Intent Based Networking) manner
 
+## Contents
+
+* [Infrastructure](infrastructure.md) - repositories, CI/CD pipelines, images and deployment.
+
 ## Literature & Reference Materials
 
 ### 1. QUIC, eBPF/XDP, and Connection ID Load Balancing
